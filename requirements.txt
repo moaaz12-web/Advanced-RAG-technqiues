@@ -1,0 +1,14 @@
+openai
+tiktoken
+langchain
+sentence-transformers
+langchain-groq
+fastembed
+neo4j
+langchain_experimental
+langchain_community
+python-dotenv
+sentence_transformers
+langchain-cohere
+sentence_transformers
+streamlit
